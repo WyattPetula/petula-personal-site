@@ -24,7 +24,7 @@ plugins:
 url: 'https://wyattpetula.netlify.app/'
 baseurl: ''
 title: 'Wyatt Petula'
-description: 'This is my new website. Yiphee!'
+description: 'Born to program. Forced to watch AI take my job.'
 permalink: pretty
 logo: "https://i.imgur.com/RDneWNP.png"
 
@@ -53,9 +53,9 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
+    description: "I've got 99 problems, and this website is one of them."
     feature_text: |
-      Welcome to my blog
+      How I Learned to Stop Worrying and Love Programming
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
