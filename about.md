@@ -2,7 +2,6 @@
 title: Wyatt Petula
 ---
 <img src="https://i.imgur.com/LBDkmbl.png" alt="drawing" width="400"/>
-
 Published Researcher, Game Developer, and Professional Artist
 
 Honors CS + Mathematics @ Penn State UP, FA 26'
