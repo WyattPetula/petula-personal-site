@@ -1,8 +1,8 @@
 ---
-title: How I Learned to Stop Worrying and Love Programming
+title: A blog about research, art, and missing semicolons
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## A blog about research, art, and missing semicolons
+  ## How I Learned to Stop Worrying and Love Programming
 ---
 
-Exploring the universe, one line of code at a time.
+Beep beep boop boop -- this website is under construction. Stay tuned!
